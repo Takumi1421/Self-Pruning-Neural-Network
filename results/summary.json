@@ -1,0 +1,10 @@
+{
+  "dataset": "CIFAR-10",
+  "device": "mps",
+  "epochs": 10,
+  "batch_size": 128,
+  "lambda_sparse": 5e-05,
+  "final_accuracy_percent": 79.04,
+  "final_sparsity_percent": 0.0,
+  "best_model_note": "Single measured run; accuracy improved steadily but no meaningful pruning occurred."
+}

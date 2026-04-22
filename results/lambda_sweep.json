@@ -1,0 +1,27 @@
+[
+  {
+    "lambda": 0.0,
+    "accuracy_percent": 78.48,
+    "sparsity_percent": 0.0
+  },
+  {
+    "lambda": 1e-07,
+    "accuracy_percent": 78.52,
+    "sparsity_percent": 0.0
+  },
+  {
+    "lambda": 1e-06,
+    "accuracy_percent": 78.14,
+    "sparsity_percent": 0.0
+  },
+  {
+    "lambda": 1e-05,
+    "accuracy_percent": 78.11,
+    "sparsity_percent": 0.0
+  },
+  {
+    "lambda": 5e-05,
+    "accuracy_percent": 78.19,
+    "sparsity_percent": 0.0
+  }
+]

@@ -1,0 +1,10 @@
+__pycache__/
+.cache/
+.DS_Store
+fontlist-v390.json
+
+# Local datasets
+data/
+
+# Python artifacts
+*.pyc

@@ -1,0 +1,6 @@
+lambda,accuracy_percent,sparsity_percent
+0.0,78.48,0.0
+1e-07,78.52,0.0
+1e-06,78.14,0.0
+1e-05,78.11,0.0
+5e-05,78.19,0.0
